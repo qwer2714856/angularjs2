@@ -58,3 +58,10 @@ angular2不支持原生的数据双向绑定。
 
 
 指令分属性指令和结构指令
+
+
+大漠清秋  
+生成component 结构图
+https://github.com/compodoc/ngd
+
+
