@@ -54,6 +54,10 @@ class Con....Compentent{
 
 angular2不支持原生的数据双向绑定。
 
+测试工具
+
+Karma_F2etest
+
 它本身也是单向数据绑定，可以借助输入输出实现双向数据绑定
 
 
@@ -65,3 +69,13 @@ angular2不支持原生的数据双向绑定。
 https://github.com/compodoc/ngd
 
 
+UI组件库
+ng2-bootstrap 强力推荐
+PrimeNG
+Angular-Material2
+Ionic -- 移动端
+https://www.oschina.net/search?scope=blog&q=%E5%A4%A7%E6%BC%A0%E7%A9%B7%E7%A7%8B 资源
+https://my.oschina.net/mumu/blog/1519357
+
+组件
+firefox tilt  Tree形结构
